@@ -1,7 +1,7 @@
 # ManagemenFile
-Ini adalah Tugas Workshop Mobile Minggu ke-7
-# Nama : Riska Dwi Nur Aini
-# Nim : E41201289
+
+# Nama : Eggi Permana Sunarya
+# Nim : E41201405
 # Golongan : B BWS
 
 1.
